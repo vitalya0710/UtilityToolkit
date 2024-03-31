@@ -1,6 +1,6 @@
 {
   "name": "utilitytoolkitbyvitalya",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "by Vitalya",
   "main": "./src/index.js",
   "scripts": {
